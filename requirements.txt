@@ -1,0 +1,4 @@
+pymongo
+flask
+python-logstash
+flask_cors

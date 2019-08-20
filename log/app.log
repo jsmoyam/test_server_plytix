@@ -1,0 +1,1382 @@
+2019-08-16 10:34:45,890 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 10:34:56,332 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 10:35:07,932 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 10:35:53,054 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 10:35:59,030 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 10:36:50,210 app.py                        :1891 log_exception          ERROR    - Exception on /words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2019-08-16 11:00:56,319 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 35, in get_words
+    return jsonify(data)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'ObjectId' is not JSON serializable
+2019-08-16 11:01:00,608 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 35, in get_words
+    return jsonify(data)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'ObjectId' is not JSON serializable
+2019-08-16 11:01:12,293 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 35, in get_words
+    return jsonify(data)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'ObjectId' is not JSON serializable
+2019-08-16 11:32:51,107 app.py                        :1891 log_exception          ERROR    - Exception on /api/store [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+TypeError: store() missing 1 required positional argument: 'new_list'
+2019-08-16 12:32:40,889 app.py                        :  37 get_words              INFO     - Entering get_words 
+2019-08-16 12:32:40,895 app.py                        :  37 get_words              INFO     - Exiting (0.21ms) get_words with [<Response 53 bytes [200 OK]>]
+2019-08-16 12:33:13,451 app.py                        :  37 get_words              INFO     - Entering get_words 
+2019-08-16 12:33:13,451 mongo_repository.py           :  41 get_words              INFO     - Entering get_words 
+2019-08-16 12:33:13,451 mongo_repository.py           :  41 get_words              INFO     - Exiting (0.0ms) get_words with [[{'word': 'juan'}, {'word': 'pepe'}, {'word': 'antonio'}]]
+2019-08-16 12:33:13,451 app.py                        :  37 get_words              INFO     - Exiting (0.42ms) get_words with [<Response 53 bytes [200 OK]>]
+2019-08-16 12:33:32,629 app.py                        :  43 store                  INFO     - Entering store 
+2019-08-16 12:33:32,630 mongo_repository.py           :  45 store_words            INFO     - Entering store_words with words=[{'word': 'juan'}, {'word': 'antonio'}, {'word': 'pepe'}]
+2019-08-16 12:33:32,630 mongo_repository.py           :  45 store_words            INFO     - Exiting (0.01ms) store_words with [True]
+2019-08-16 12:33:32,630 app.py                        :  43 store                  INFO     - Exiting (0.44ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 12:35:08,489 app.py                        :  37 get_words              INFO     - Entering get_words 
+2019-08-16 12:35:08,489 mongo_repository.py           :  41 get_words              INFO     - Entering get_words 
+2019-08-16 12:35:08,490 mongo_repository.py           :  41 get_words              INFO     - Exiting (0.0ms) get_words with [[{'word': 'juan'}, {'word': 'pepe'}, {'word': 'antonio'}]]
+2019-08-16 12:35:08,490 app.py                        :  37 get_words              INFO     - Exiting (0.54ms) get_words with [<Response 53 bytes [200 OK]>]
+2019-08-16 12:35:10,018 app.py                        :  43 store                  INFO     - Entering store 
+2019-08-16 12:35:10,018 mongo_repository.py           :  45 store_words            INFO     - Entering store_words with words=[{'word': 'pepe'}, {'word': 'juan'}, {'word': 'antonio'}]
+2019-08-16 12:35:10,018 mongo_repository.py           :  45 store_words            INFO     - Exiting (0.0ms) store_words with [True]
+2019-08-16 12:35:10,018 app.py                        :  43 store                  INFO     - Exiting (0.48ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 12:49:48,385 mongo_repository.py           :  41 fill_database          INFO     - Entering fill_database with data=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-16 12:49:48,408 mongo_repository.py           :  41 fill_database          INFO     - Exiting (23.11ms) fill_database with [True]
+2019-08-16 12:51:09,238 mongo_repository.py           :  41 fill_database          INFO     - Entering fill_database with data=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-16 12:51:09,254 mongo_repository.py           :  41 fill_database          INFO     - Exiting (15.62ms) fill_database with [True]
+2019-08-16 12:54:03,472 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 12:54:03,472 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 12:54:03,473 mongo_repository.py           :  53 get_words              INFO     - Exiting (0.63ms) get_words with [[{'_id': ObjectId('5d568a9d627a225f4b886f65'), 'word': 'foo'}, {'_id': ObjectId('5d568a9d627a225f4b886f66'), 'word': 'bar'}, {'_id': ObjectId('5d568a9d627a225f4b886f67'), 'word': 'xyzzy'}]]
+2019-08-16 12:54:03,473 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/app.py", line 53, in get_words
+    return jsonify(db.get_words())
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'ObjectId' is not JSON serializable
+2019-08-16 12:54:07,224 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 12:54:07,224 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 12:54:07,225 mongo_repository.py           :  53 get_words              INFO     - Exiting (0.65ms) get_words with [[{'_id': ObjectId('5d568a9d627a225f4b886f65'), 'word': 'foo'}, {'_id': ObjectId('5d568a9d627a225f4b886f66'), 'word': 'bar'}, {'_id': ObjectId('5d568a9d627a225f4b886f67'), 'word': 'xyzzy'}]]
+2019-08-16 12:54:07,225 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/app.py", line 53, in get_words
+    return jsonify(db.get_words())
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'ObjectId' is not JSON serializable
+2019-08-16 12:54:52,164 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 12:54:52,164 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:01:51,648 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:01:51,648 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:01:51,649 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/app.py", line 53, in get_words
+    return jsonify(db.get_words())
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/dao/mongo_repository.py", line 59, in get_words
+    ff = list(self.mongo_collect.find({'word'}))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/collection.py", line 1460, in find
+    return Cursor(self, *args, **kwargs)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/cursor.py", line 143, in __init__
+    validate_is_mapping("filter", spec)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/common.py", line 474, in validate_is_mapping
+    "collections.Mapping" % (option,))
+TypeError: filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping
+2019-08-16 13:02:04,937 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:02:04,938 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:02:04,940 app.py                        :1891 log_exception          ERROR    - Exception on /api/words [GET]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/app.py", line 53, in get_words
+    return jsonify(db.get_words())
+  File "/home/juan/PycharmProjects/test/tools/decorators.py", line 45, in wrapper
+    f_result = func(*args, **kwds)
+  File "/home/juan/PycharmProjects/test/dao/mongo_repository.py", line 59, in get_words
+    ff = list(self.mongo_collect.find({'word'}))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/collection.py", line 1460, in find
+    return Cursor(self, *args, **kwargs)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/cursor.py", line 143, in __init__
+    validate_is_mapping("filter", spec)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/pymongo/common.py", line 474, in validate_is_mapping
+    "collections.Mapping" % (option,))
+TypeError: filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping
+2019-08-16 13:03:33,417 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:03:33,418 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:04:29,536 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:04:29,537 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:04:56,578 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:04:56,579 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:04:56,582 mongo_repository.py           :  53 get_words              INFO     - Exiting (2.88ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 13:04:56,583 app.py                        :  46 get_words              INFO     - Exiting (4.14ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 13:04:59,389 app.py                        :  56 store                  INFO     - Entering store 
+2019-08-16 13:04:59,390 mongo_repository.py           :  61 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]
+2019-08-16 13:04:59,412 mongo_repository.py           :  61 store_words            INFO     - Exiting (22.34ms) store_words with [True]
+2019-08-16 13:04:59,413 app.py                        :  56 store                  INFO     - Exiting (23.72ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 13:05:28,303 app.py                        :  46 get_words              INFO     - Entering get_words 
+2019-08-16 13:05:28,303 mongo_repository.py           :  53 get_words              INFO     - Entering get_words 
+2019-08-16 13:05:28,305 mongo_repository.py           :  53 get_words              INFO     - Exiting (1.53ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-16 13:05:28,306 app.py                        :  46 get_words              INFO     - Exiting (2.77ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 13:05:31,192 app.py                        :  56 store                  INFO     - Entering store 
+2019-08-16 13:05:31,194 mongo_repository.py           :  61 store_words            INFO     - Entering store_words with words=[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]
+2019-08-16 13:05:31,225 mongo_repository.py           :  61 store_words            INFO     - Exiting (30.29ms) store_words with [True]
+2019-08-16 13:05:31,225 app.py                        :  56 store                  INFO     - Exiting (31.77ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 13:59:08,842 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 13:59:08,842 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 13:59:08,844 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.51ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 13:59:08,844 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.14ms) get_words_list with [['xyzzy', 'bar', 'foo']]
+2019-08-16 14:14:25,631 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:14:25,632 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:14:25,635 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.69ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 14:14:25,635 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (3.0ms) get_words_list with [['xyzzy', 'bar', 'foo']]
+2019-08-16 14:15:02,817 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:15:02,818 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:15:02,818 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.57ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 14:15:02,819 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (0.83ms) get_words_list with [['xyzzy', 'bar', 'foo']]
+2019-08-16 14:15:34,616 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:15:34,617 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:15:34,625 mongo_repository.py           :  69 get_words              INFO     - Exiting (6.48ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 14:15:34,625 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (8.35ms) get_words_list with [['xyzzy', 'bar', 'foo']]
+2019-08-16 14:16:01,091 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:16:01,092 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:16:01,095 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.62ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 14:16:01,096 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (3.69ms) get_words_list with [['xyzzy', 'bar', 'foo']]
+2019-08-16 14:16:04,798 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:16:04,798 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:16:04,800 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.53ms) get_words with [[{'word': 'xyzzy'}, {'word': 'bar'}, {'word': 'foo'}]]
+2019-08-16 14:16:04,801 app.py                        :  39 get_words              INFO     - Exiting (2.94ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:16:10,587 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:16:10,588 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'xyzzy'}, {'word': 'foo'}, {'word': 'bar'}]
+2019-08-16 14:16:10,615 mongo_repository.py           :  81 store_words            INFO     - Exiting (26.89ms) store_words with [True]
+2019-08-16 14:16:10,616 app.py                        :  53 store                  INFO     - Exiting (28.39ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:16:28,432 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:16:28,433 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'xyzzy'}, {'word': 'foo'}, {'word': 'bar'}]
+2019-08-16 14:16:28,455 mongo_repository.py           :  81 store_words            INFO     - Exiting (21.5ms) store_words with [True]
+2019-08-16 14:16:28,455 app.py                        :  53 store                  INFO     - Exiting (22.72ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:17:35,822 mongo_repository.py           :  43 fill_database          INFO     - Entering fill_database with data=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-16 14:17:35,841 mongo_repository.py           :  43 fill_database          INFO     - Exiting (18.79ms) fill_database with [True]
+2019-08-16 14:17:38,763 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:17:38,763 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:17:38,765 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.3ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:17:38,766 app.py                        :  39 get_words              INFO     - Exiting (2.34ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:18:22,391 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:18:22,392 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:18:22,394 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.09ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:18:22,395 app.py                        :  39 get_words              INFO     - Exiting (3.17ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:19:59,203 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:19:59,204 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:19:59,206 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.45ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:19:59,207 app.py                        :  39 get_words              INFO     - Exiting (2.83ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:19:59,629 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:19:59,630 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:19:59,632 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.35ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:19:59,633 app.py                        :  39 get_words              INFO     - Exiting (3.51ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:23:37,772 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:23:37,773 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:23:37,775 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.73ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:23:37,776 app.py                        :  39 get_words              INFO     - Exiting (2.82ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:23:51,038 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:23:51,040 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'foo'}, {'word': 'xyzzy'}, {'word': 'bar'}]
+2019-08-16 14:23:51,088 mongo_repository.py           :  81 store_words            INFO     - Exiting (47.13ms) store_words with [True]
+2019-08-16 14:23:51,089 app.py                        :  53 store                  INFO     - Exiting (49.85ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:23:52,325 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:23:52,326 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-16 14:23:52,346 mongo_repository.py           :  81 store_words            INFO     - Exiting (19.63ms) store_words with [True]
+2019-08-16 14:23:52,346 app.py                        :  53 store                  INFO     - Exiting (20.8ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:24:55,138 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:24:55,139 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:24:55,145 mongo_repository.py           :  69 get_words              INFO     - Exiting (6.47ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:24:55,146 app.py                        :  39 get_words              INFO     - Exiting (7.5ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:24:59,023 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:24:59,023 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:24:59,028 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.65ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:24:59,029 app.py                        :  39 get_words              INFO     - Exiting (5.83ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:25:24,524 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:24,524 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:24,526 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.45ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:25:24,527 app.py                        :  39 get_words              INFO     - Exiting (2.47ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:25:33,669 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:33,669 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:33,671 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.51ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:25:33,672 app.py                        :  39 get_words              INFO     - Exiting (2.57ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:25:44,033 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:44,033 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:44,035 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.44ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:25:44,036 app.py                        :  39 get_words              INFO     - Exiting (2.6ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:25:47,521 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:47,521 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:47,529 mongo_repository.py           :  69 get_words              INFO     - Exiting (7.41ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:25:47,530 app.py                        :  39 get_words              INFO     - Exiting (8.76ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:25:49,394 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:49,394 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:25:49,396 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.73ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:25:49,397 app.py                        :  39 get_words              INFO     - Exiting (2.8ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:26:18,348 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:26:18,349 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:26:18,351 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.57ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:26:18,352 app.py                        :  39 get_words              INFO     - Exiting (2.69ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:27:09,580 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:27:09,585 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:27:09,587 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.59ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:27:09,587 app.py                        :  39 get_words              INFO     - Exiting (2.71ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:27:27,928 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:27:27,930 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:27:27,932 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.58ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:27:27,932 app.py                        :  39 get_words              INFO     - Exiting (2.71ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:27:44,476 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:27:44,479 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]
+2019-08-16 14:27:44,536 mongo_repository.py           :  81 store_words            INFO     - Exiting (56.01ms) store_words with [True]
+2019-08-16 14:27:44,536 app.py                        :  53 store                  INFO     - Exiting (59.72ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:27:48,021 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-16 14:27:48,022 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-16 14:27:48,045 mongo_repository.py           :  81 store_words            INFO     - Exiting (22.1ms) store_words with [True]
+2019-08-16 14:27:48,045 app.py                        :  53 store                  INFO     - Exiting (23.28ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-16 14:29:11,446 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:29:11,446 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:29:11,448 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.4ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:29:11,449 app.py                        :  39 get_words              INFO     - Exiting (2.39ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:29:16,346 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:29:16,347 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:29:16,349 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.68ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:29:16,350 app.py                        :  39 get_words              INFO     - Exiting (3.08ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:30:16,433 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:30:16,433 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:30:16,435 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.36ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:30:16,436 app.py                        :  39 get_words              INFO     - Exiting (2.36ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:31:00,186 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:31:00,187 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:31:00,189 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.47ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:31:00,190 app.py                        :  39 get_words              INFO     - Exiting (2.54ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:31:00,992 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:31:00,994 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:31:00,997 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.22ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:31:00,998 app.py                        :  39 get_words              INFO     - Exiting (3.7ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:32:03,870 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:32:03,871 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:32:03,874 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.64ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:32:03,875 app.py                        :  39 get_words              INFO     - Exiting (3.64ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:32:06,432 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:32:06,433 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:32:06,435 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.57ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:32:06,436 app.py                        :  39 get_words              INFO     - Exiting (2.59ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:34:48,761 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:34:48,762 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:34:48,763 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.37ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:34:48,764 app.py                        :  39 get_words              INFO     - Exiting (2.4ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:35:26,367 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:26,367 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:26,370 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.96ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:35:26,371 app.py                        :  39 get_words              INFO     - Exiting (3.93ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:35:32,980 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:32,980 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:32,983 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.0ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:35:32,983 app.py                        :  39 get_words              INFO     - Exiting (3.04ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:35:35,896 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:35,896 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:35:35,898 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.63ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:35:35,899 app.py                        :  39 get_words              INFO     - Exiting (2.59ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:36:07,903 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:07,904 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:07,907 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.61ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:36:07,908 app.py                        :  39 get_words              INFO     - Exiting (3.67ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:36:34,906 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:34,909 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:34,933 mongo_repository.py           :  69 get_words              INFO     - Exiting (23.11ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:36:34,935 app.py                        :  39 get_words              INFO     - Exiting (25.06ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:36:39,878 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:39,878 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:36:39,882 mongo_repository.py           :  69 get_words              INFO     - Exiting (3.29ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:36:39,885 app.py                        :  39 get_words              INFO     - Exiting (6.27ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:40:46,715 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:40:46,716 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:40:46,722 mongo_repository.py           :  69 get_words              INFO     - Exiting (5.08ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:40:46,725 app.py                        :  39 get_words              INFO     - Exiting (8.17ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:40:53,497 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:40:53,498 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:40:53,500 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.72ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:40:53,500 app.py                        :  39 get_words              INFO     - Exiting (2.88ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:41:44,612 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:41:44,613 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:41:44,615 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.7ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:41:44,615 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.53ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-16 14:42:00,514 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:42:00,515 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:42:00,517 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.59ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:42:00,518 app.py                        :  39 get_words              INFO     - Exiting (2.83ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:42:13,138 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:42:13,139 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:42:13,142 mongo_repository.py           :  69 get_words              INFO     - Exiting (3.07ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:42:13,143 app.py                        :  39 get_words              INFO     - Exiting (4.19ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:43:02,580 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:02,580 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:02,582 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.37ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:43:02,583 app.py                        :  39 get_words              INFO     - Exiting (2.33ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:43:37,299 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:37,300 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:37,304 mongo_repository.py           :  69 get_words              INFO     - Exiting (3.36ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:43:37,304 app.py                        :  39 get_words              INFO     - Exiting (4.77ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:43:52,156 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:52,156 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:43:52,159 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.78ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:43:52,160 app.py                        :  39 get_words              INFO     - Exiting (3.8ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:44:18,895 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:44:18,901 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:44:18,903 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.68ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:44:18,904 app.py                        :  39 get_words              INFO     - Exiting (3.04ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:44:19,131 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:44:19,131 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:44:19,133 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.71ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:44:19,134 app.py                        :  39 get_words              INFO     - Exiting (3.1ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:44:22,304 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:22,695 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:23,330 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,040 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,216 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,369 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,596 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,648 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:26,802 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:40,913 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:48,069 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:48,070 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:44:52,505 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:45:24,892 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:45:55,939 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: 'NoneType' object is not iterable
+2019-08-16 14:46:00,327 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:46:00,327 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:46:00,330 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.43ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:46:00,331 app.py                        :  39 get_words              INFO     - Exiting (3.66ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:47:03,792 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:47:03,793 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:03,795 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.88ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:47:03,795 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.58ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-16 14:47:06,258 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:06,258 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:06,260 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.58ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:47:06,261 app.py                        :  39 get_words              INFO     - Exiting (2.85ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:47:17,333 app.py                        :1891 log_exception          ERROR    - Exception on /api/anagrams [POST]
+Traceback (most recent call last):
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/juan/PycharmProjects/test/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/juan/PycharmProjects/test/app.py", line 78, in get_anagrams
+    return jsonify(anagram_service.get_anagram_words(word))
+  File "/home/juan/PycharmProjects/test/services/anagram_service.py", line 32, in get_anagram_words
+    sorted_word = ''.join(sorted(word))
+TypeError: sequence item 0: expected str instance, int found
+2019-08-16 14:47:31,880 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:47:31,880 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:31,882 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.41ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:47:31,882 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.02ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-16 14:47:34,323 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:34,323 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:47:34,325 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.41ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:47:34,329 app.py                        :  39 get_words              INFO     - Exiting (2.8ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:48:22,286 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:48:22,287 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:48:22,289 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.45ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:48:22,289 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.1ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-16 14:48:25,661 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:48:25,661 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:48:25,664 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.46ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:48:25,665 app.py                        :  39 get_words              INFO     - Exiting (3.71ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:49:33,786 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-16 14:49:33,787 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:49:33,789 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.48ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:49:33,789 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (2.08ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-16 14:49:37,282 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 14:49:37,283 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 14:49:37,284 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.52ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 14:49:37,285 app.py                        :  39 get_words              INFO     - Exiting (2.67ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 14:49:43,242 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='a'
+2019-08-16 14:49:43,243 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.04ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:49:55,126 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 14:49:55,127 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:49:58,057 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 14:49:58,058 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 14:50:01,550 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspace'
+2019-08-16 14:50:01,550 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:01,769 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspace'
+2019-08-16 14:50:01,770 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:02,023 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspace'
+2019-08-16 14:50:02,025 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.06ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:02,840 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspacea'
+2019-08-16 14:50:02,841 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:03,103 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceab'
+2019-08-16 14:50:03,104 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:03,385 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceabr'
+2019-08-16 14:50:03,387 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:07,110 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceabrBackspace'
+2019-08-16 14:50:07,110 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:07,311 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceabrBackspaceBackspace'
+2019-08-16 14:50:07,312 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:07,540 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceabrBackspaceBackspaceBackspace'
+2019-08-16 14:50:07,541 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 14:50:45,389 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrBackspaceBackspaceBackspaceabrBackspaceBackspaceBackspacea'
+2019-08-16 14:50:45,389 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:00:19,127 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 15:00:19,128 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 15:00:19,131 mongo_repository.py           :  69 get_words              INFO     - Exiting (2.11ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 15:00:19,131 app.py                        :  39 get_words              INFO     - Exiting (3.22ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 15:01:26,666 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 15:01:26,666 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 15:01:26,668 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.44ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 15:01:26,669 app.py                        :  39 get_words              INFO     - Exiting (2.44ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 15:01:32,818 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 15:01:32,818 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 15:01:32,820 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.49ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 15:01:32,821 app.py                        :  39 get_words              INFO     - Exiting (2.44ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 15:01:36,572 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='a'
+2019-08-16 15:01:36,573 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:37,808 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:01:37,809 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:38,234 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:01:38,234 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-16 15:01:40,332 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:01:40,333 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:41,378 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:01:41,379 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 15:01:42,772 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:01:42,773 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.04ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:43,057 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:01:43,058 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 15:01:43,801 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:01:43,802 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:44,067 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:01:44,067 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 15:01:45,464 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abrr'
+2019-08-16 15:01:45,464 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:46,315 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:01:46,316 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 15:01:47,194 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:01:47,195 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:47,993 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='a'
+2019-08-16 15:01:47,994 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:49,284 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnter'
+2019-08-16 15:01:49,285 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:50,349 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnterv'
+2019-08-16 15:01:50,350 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:51,678 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnter'
+2019-08-16 15:01:51,679 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:52,056 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnterb'
+2019-08-16 15:01:52,056 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:52,530 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnterbr'
+2019-08-16 15:01:52,531 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:01:58,055 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='aEnterbrF12'
+2019-08-16 15:01:58,056 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:13,977 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 15:05:13,978 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 15:05:13,979 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.4ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 15:05:13,980 app.py                        :  39 get_words              INFO     - Exiting (2.47ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 15:05:16,085 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-16 15:05:16,086 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-16 15:05:16,088 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.71ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-16 15:05:16,088 app.py                        :  39 get_words              INFO     - Exiting (2.72ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-16 15:05:18,144 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='a'
+2019-08-16 15:05:18,144 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:18,964 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:05:18,965 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:19,278 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:05:19,279 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-16 15:05:20,345 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:05:20,345 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:20,639 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abr'
+2019-08-16 15:05:20,639 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-16 15:05:22,221 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ab'
+2019-08-16 15:05:22,222 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:22,625 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abEnter'
+2019-08-16 15:05:22,625 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-16 15:05:23,420 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='abEnterr'
+2019-08-16 15:05:23,421 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:07:47,743 mongo_repository.py           :  54 get_words_list         INFO     - Entering get_words_list 
+2019-08-20 11:07:47,744 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:07:47,748 mongo_repository.py           :  69 get_words              INFO     - Exiting (4.41ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-20 11:07:47,749 mongo_repository.py           :  54 get_words_list         INFO     - Exiting (4.73ms) get_words_list with [['foo', 'bar', 'xyzzy']]
+2019-08-20 11:07:54,142 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:07:54,142 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:07:54,143 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.7ms) get_words with [[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]]
+2019-08-20 11:07:54,143 app.py                        :  39 get_words              INFO     - Exiting (1.13ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:08:00,333 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:08:00,334 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:01,072 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:08:01,074 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:01,567 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:08:01,568 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:08:03,572 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:08:03,574 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:04,628 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:08:04,629 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-20 11:08:05,843 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabd'
+2019-08-20 11:08:05,845 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:06,503 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:08:06,503 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:08:07,244 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:08:07,245 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:08,324 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:08:08,325 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:08:08,929 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEnter'
+2019-08-20 11:08:08,931 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:11,826 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEnte'
+2019-08-20 11:08:11,828 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:13,180 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEnteb'
+2019-08-20 11:08:13,181 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:14,048 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEnte'
+2019-08-20 11:08:14,048 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:14,239 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEnt'
+2019-08-20 11:08:14,240 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:14,456 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabEn'
+2019-08-20 11:08:14,458 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:08:22,185 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-20 11:08:22,186 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'foo'}, {'word': 'bar'}, {'word': 'xyzzy'}]
+2019-08-20 11:08:22,214 mongo_repository.py           :  81 store_words            INFO     - Exiting (27.63ms) store_words with [True]
+2019-08-20 11:08:22,215 app.py                        :  53 store                  INFO     - Exiting (28.53ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-20 11:08:23,365 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-20 11:08:23,366 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'xyzzy'}, {'word': 'foo'}]
+2019-08-20 11:08:23,389 mongo_repository.py           :  81 store_words            INFO     - Exiting (22.76ms) store_words with [True]
+2019-08-20 11:08:23,389 app.py                        :  53 store                  INFO     - Exiting (23.36ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-20 11:08:24,585 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-20 11:08:24,586 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]
+2019-08-20 11:08:24,613 mongo_repository.py           :  81 store_words            INFO     - Exiting (27.19ms) store_words with [True]
+2019-08-20 11:08:24,613 app.py                        :  53 store                  INFO     - Exiting (28.02ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-20 11:22:41,397 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:22:41,397 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:22:41,398 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.62ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:22:41,398 app.py                        :  39 get_words              INFO     - Exiting (0.96ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:22:50,082 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:22:50,082 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:22:50,083 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.68ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:22:50,083 app.py                        :  39 get_words              INFO     - Exiting (1.07ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:23:02,297 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:23:02,297 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:23:02,298 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.67ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:23:02,299 app.py                        :  39 get_words              INFO     - Exiting (1.09ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:23:04,865 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:23:04,865 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:23:05,103 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:23:05,103 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:23:05,512 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:23:05,513 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [['bar']]
+2019-08-20 11:23:08,561 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabb'
+2019-08-20 11:23:08,562 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:23:10,303 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabbb'
+2019-08-20 11:23:10,304 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:23:55,477 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:23:55,478 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:23:55,479 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.74ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:23:55,479 app.py                        :  39 get_words              INFO     - Exiting (1.21ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:24:11,198 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:24:11,198 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:24:11,199 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.67ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:24:11,199 app.py                        :  39 get_words              INFO     - Exiting (1.08ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:24:24,226 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:24:24,227 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:24:24,462 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:24:24,463 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:24:25,082 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:24:25,082 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:24:33,718 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:24:33,718 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:24:39,026 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:24:39,027 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-20 11:24:49,755 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rabA'
+2019-08-20 11:24:49,756 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:24:55,769 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:24:55,770 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-20 11:26:08,176 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:26:08,177 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:26:47,450 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:26:47,450 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:48,362 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:27:48,363 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:27:48,363 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.7ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:27:48,364 app.py                        :  39 get_words              INFO     - Exiting (1.12ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:27:51,804 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='d'
+2019-08-20 11:27:51,805 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:52,510 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word=''
+2019-08-20 11:27:52,512 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:52,922 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:27:52,923 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:53,224 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:27:53,225 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:53,440 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:27:53,441 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-20 11:27:54,024 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:27:54,025 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:27:55,851 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:27:55,852 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:28:04,937 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:28:04,939 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.1ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:05,210 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:28:05,210 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:38,931 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:28:38,931 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:28:38,932 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.81ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:28:38,932 app.py                        :  39 get_words              INFO     - Exiting (1.31ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:28:40,922 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:28:40,922 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:40,952 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:28:40,952 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:41,027 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:28:41,027 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:28:42,095 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:28:42,095 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:44,168 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:28:44,169 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:44,447 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word=''
+2019-08-20 11:28:44,447 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:54,314 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:28:54,314 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:28:54,315 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.77ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:28:54,315 app.py                        :  39 get_words              INFO     - Exiting (1.21ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:28:56,361 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:28:56,361 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:56,399 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:28:56,399 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:56,440 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:28:56,440 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:28:57,277 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:28:57,277 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.11ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:28:59,905 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:28:59,906 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.03ms) get_anagram_words with [['bar']]
+2019-08-20 11:29:03,267 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:29:03,268 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.07ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:29:03,439 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:29:03,440 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:29:17,102 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:29:17,102 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:29:17,103 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.9ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:29:17,103 app.py                        :  39 get_words              INFO     - Exiting (1.37ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:29:18,590 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:29:18,591 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:29:18,630 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:29:18,630 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:29:23,141 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:29:23,142 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:33:52,405 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:33:52,406 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:33:52,407 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.1ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:33:52,407 app.py                        :  39 get_words              INFO     - Exiting (1.56ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:39:53,262 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:39:53,262 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:39:53,264 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.24ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:39:53,264 app.py                        :  39 get_words              INFO     - Exiting (1.78ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:43:25,720 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:43:25,722 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:43:25,726 mongo_repository.py           :  69 get_words              INFO     - Exiting (3.36ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:43:25,726 app.py                        :  39 get_words              INFO     - Exiting (4.04ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:43:36,311 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:43:36,312 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:43:36,578 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rs'
+2019-08-20 11:43:36,578 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:43:37,776 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:43:37,776 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:43:40,899 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:43:40,900 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:43:43,805 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:43:43,805 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:43:45,707 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:43:45,707 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.0ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:43:48,241 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:43:48,242 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:28,739 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:46:28,739 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:46:28,740 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.79ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:46:28,740 app.py                        :  39 get_words              INFO     - Exiting (1.24ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:46:30,851 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:46:30,857 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:30,902 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:46:30,903 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:30,932 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:46:30,933 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:46:31,534 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:46:31,534 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:32,202 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:46:32,202 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:34,838 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:46:34,838 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:38,735 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:46:38,736 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:46:41,294 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:46:41,294 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:41,676 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:46:41,677 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:46:42,151 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word=''
+2019-08-20 11:46:42,151 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:18,445 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:47:18,445 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:47:18,446 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.72ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:47:18,446 app.py                        :  39 get_words              INFO     - Exiting (1.16ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:47:20,138 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:47:20,138 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:20,160 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:20,160 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:20,916 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:47:20,916 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:47:21,528 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:21,528 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:22,504 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:22,505 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:25,983 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:25,984 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:26,705 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:26,705 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:47:27,593 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:47:27,593 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:48:54,200 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:48:54,200 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:48:54,201 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.77ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:48:54,202 app.py                        :  39 get_words              INFO     - Exiting (1.3ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:48:57,771 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:48:57,772 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:48:57,773 mongo_repository.py           :  69 get_words              INFO     - Exiting (1.31ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:48:57,774 app.py                        :  39 get_words              INFO     - Exiting (1.86ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:48:59,323 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:48:59,323 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.05ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:48:59,563 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:48:59,564 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:49:00,032 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:49:00,032 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:49:00,857 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:49:00,858 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:49:01,572 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:49:01,573 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:49:02,072 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:49:02,072 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:49:02,534 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:49:02,535 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.07ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:52:55,696 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:52:55,697 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:52:55,697 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.81ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:52:55,698 app.py                        :  39 get_words              INFO     - Exiting (1.31ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:54:19,112 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:54:19,113 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:54:19,114 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.79ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:54:19,114 app.py                        :  39 get_words              INFO     - Exiting (1.9ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:54:21,251 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:54:21,252 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:54:21,288 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:54:21,289 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:54:21,374 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:54:21,375 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [['bar']]
+2019-08-20 11:54:23,172 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:54:23,173 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:54:25,061 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:54:25,062 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:54:43,455 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:54:43,455 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:54:43,456 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.69ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:54:43,456 app.py                        :  39 get_words              INFO     - Exiting (1.13ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:56:06,407 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:06,407 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:06,408 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.74ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:56:06,408 app.py                        :  39 get_words              INFO     - Exiting (1.13ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:56:17,143 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:17,144 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:17,145 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.73ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:56:17,145 app.py                        :  39 get_words              INFO     - Exiting (1.16ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:56:38,297 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:38,298 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:38,299 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.72ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:56:38,299 app.py                        :  39 get_words              INFO     - Exiting (1.17ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:56:41,008 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:41,008 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 11:56:41,009 mongo_repository.py           :  69 get_words              INFO     - Exiting (0.95ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 11:56:41,009 app.py                        :  39 get_words              INFO     - Exiting (1.42ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 11:56:43,970 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:56:43,971 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:44,037 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:56:44,037 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:45,744 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rag'
+2019-08-20 11:56:45,745 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:46,420 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:56:46,420 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:46,599 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='rab'
+2019-08-20 11:56:46,600 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['bar']]
+2019-08-20 11:56:47,508 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ra'
+2019-08-20 11:56:47,508 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:50,102 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='r'
+2019-08-20 11:56:50,102 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 11:56:50,596 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word=''
+2019-08-20 11:56:50,597 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:39,967 app.py                        :  39 get_words              INFO     - Entering get_words 
+2019-08-20 13:01:39,968 mongo_repository.py           :  69 get_words              INFO     - Entering get_words 
+2019-08-20 13:01:39,984 mongo_repository.py           :  69 get_words              INFO     - Exiting (16.09ms) get_words with [[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]]
+2019-08-20 13:01:39,985 app.py                        :  39 get_words              INFO     - Exiting (16.57ms) get_words with [<Response 49 bytes [200 OK]>]
+2019-08-20 13:01:46,088 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-20 13:01:46,095 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'xyzzy'}, {'word': 'foo'}]
+2019-08-20 13:01:46,131 mongo_repository.py           :  81 store_words            INFO     - Exiting (36.02ms) store_words with [True]
+2019-08-20 13:01:46,132 app.py                        :  53 store                  INFO     - Exiting (43.25ms) store with [<Response 0 bytes [200 OK]>]
+2019-08-20 13:01:48,662 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='o'
+2019-08-20 13:01:48,662 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:49,675 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='of'
+2019-08-20 13:01:49,676 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:50,618 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='ofo'
+2019-08-20 13:01:50,618 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['foo']]
+2019-08-20 13:01:51,845 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='of'
+2019-08-20 13:01:51,846 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:53,909 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='o'
+2019-08-20 13:01:53,910 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.02ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:54,825 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='oo'
+2019-08-20 13:01:54,826 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [NO RESULTS]
+2019-08-20 13:01:54,955 anagram_service.py            :  28 get_anagram_words      INFO     - Entering get_anagram_words with word='oof'
+2019-08-20 13:01:54,956 anagram_service.py            :  28 get_anagram_words      INFO     - Exiting (0.01ms) get_anagram_words with [['foo']]
+2019-08-20 13:02:56,937 app.py                        :  53 store                  INFO     - Entering store 
+2019-08-20 13:02:56,938 mongo_repository.py           :  81 store_words            INFO     - Entering store_words with words=[{'word': 'bar'}, {'word': 'foo'}, {'word': 'xyzzy'}]
+2019-08-20 13:02:56,954 mongo_repository.py           :  81 store_words            INFO     - Exiting (15.91ms) store_words with [True]
+2019-08-20 13:02:56,954 app.py                        :  53 store                  INFO     - Exiting (16.43ms) store with [<Response 0 bytes [200 OK]>]
